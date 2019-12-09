@@ -1,0 +1,4 @@
+npm install lite-server --save-dev (watches files changes)
+in scripts :{} add these :
+"start":"npm run lite"
+"lite":"lite-server"
